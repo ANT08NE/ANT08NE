@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 # 👋 Bienvenue sur mon profil GitHub !
 
 Je m'appelle **[Ton Prénom]**, un **jeune Data Analyst** passionné par l'exploration des données et leur transformation en insights exploitables. Mon objectif est de découvrir des tendances, résoudre des problèmes concrets et contribuer à la prise de décisions éclairées à travers l'analyse de données.
@@ -38,5 +38,3 @@ N'hésitez pas à me contacter pour toute question, collaboration ou simplement 
 - **Email** : [Ton Email](mailto:tonemail@example.com)
 
 Merci pour votre visite, et à bientôt dans les data ! 🚀
-
--->
